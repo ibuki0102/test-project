@@ -1,6 +1,6 @@
-import styles from "./test.module.scss";
+import styles from './test.module.scss'
 
-import Header from "./components/Header/Header";
+import Header from './components/Header/Header'
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <h1 className={styles.Title}>Test Title</h1>
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
